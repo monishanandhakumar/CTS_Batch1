@@ -208,6 +208,7 @@
     <Content Include="Views\ViewData_Bag_Tempdata\FirstRequest.cshtml" />
     <Content Include="Views\ViewData_Bag_Tempdata\SecondRequest.cshtml" />
     <Content Include="Views\HR\Tempdatafrom.cshtml" />
+    <Content Include="Views\Demo\GetEmployee.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

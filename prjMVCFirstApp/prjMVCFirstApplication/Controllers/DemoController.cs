@@ -11,6 +11,11 @@ namespace prjMVCFirstApplication.Controllers
     {
         //ActionMethod
         // GET: Demo
+
+        public ActionResult GetEmployee()
+        {
+            return View();
+        }
         public ActionResult Index()
         {
             return View();
