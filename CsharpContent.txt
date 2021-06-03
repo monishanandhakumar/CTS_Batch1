@@ -2,3 +2,6 @@ C#
 1.DataTypes
 2.OOPSConcepts
 3.Assembly
+4.Pointers
+5.OOPS
+6.Data structures
